@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pro05-mybatis-dynamicSQL" />
+        <module name="pro06-mybatis-cache" />
+        <module name="pro07-mybatis-mbg" />
+        <module name="pro03-mybatis-parameter" />
+        <module name="pro04-mybatis-resultMap" />
+        <module name="pro02-mybatis-helloworld" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pro02-mybatis-helloworld" target="1.8" />
+      <module name="pro03-mybatis-parameter" target="1.8" />
+      <module name="pro04-mybatis-resultMap" target="1.8" />
+      <module name="pro05-mybatis-dynamicSQL" target="1.8" />
+      <module name="pro06-mybatis-cache" target="1.8" />
+      <module name="pro07-mybatis-mbg" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

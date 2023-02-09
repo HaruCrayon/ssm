@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pro01-mybatis.iml" filepath="$PROJECT_DIR$/pro01-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro02-mybatis-helloworld/pro02-mybatis-helloworld.iml" filepath="$PROJECT_DIR$/pro02-mybatis-helloworld/pro02-mybatis-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro03-mybatis-parameter/pro03-mybatis-parameter.iml" filepath="$PROJECT_DIR$/pro03-mybatis-parameter/pro03-mybatis-parameter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro04-mybatis-resultMap/pro04-mybatis-resultMap.iml" filepath="$PROJECT_DIR$/pro04-mybatis-resultMap/pro04-mybatis-resultMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro05-mybatis-dynamicSQL/pro05-mybatis-dynamicSQL.iml" filepath="$PROJECT_DIR$/pro05-mybatis-dynamicSQL/pro05-mybatis-dynamicSQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro06-mybatis-cache/pro06-mybatis-cache.iml" filepath="$PROJECT_DIR$/pro06-mybatis-cache/pro06-mybatis-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro07-mybatis-mbg/pro07-mybatis-mbg.iml" filepath="$PROJECT_DIR$/pro07-mybatis-mbg/pro07-mybatis-mbg.iml" />
+    </modules>
+  </component>
+</project>

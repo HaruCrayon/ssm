@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pro01-spring-helloworld/pro01-spring-helloworld.iml" filepath="$PROJECT_DIR$/pro01-spring-helloworld/pro01-spring-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro02-spring.iml" filepath="$PROJECT_DIR$/pro02-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro02-spring-ioc-xml/pro02-spring-ioc-xml.iml" filepath="$PROJECT_DIR$/pro02-spring-ioc-xml/pro02-spring-ioc-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro03-spring-ioc-annotation/pro03-spring-ioc-annotation.iml" filepath="$PROJECT_DIR$/pro03-spring-ioc-annotation/pro03-spring-ioc-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro04-spring-proxy/pro04-spring-proxy.iml" filepath="$PROJECT_DIR$/pro04-spring-proxy/pro04-spring-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro05-spring-aop/pro05-spring-aop.iml" filepath="$PROJECT_DIR$/pro05-spring-aop/pro05-spring-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro06-spring-transaction/pro06-spring-transaction.iml" filepath="$PROJECT_DIR$/pro06-spring-transaction/pro06-spring-transaction.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pro05-spring-mvc-extension:war">
+    <output-path>$PROJECT_DIR$/pro05-spring-mvc-extension/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>pro05-spring-mvc-extension</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="pro05-spring-mvc-extension-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="pro05-spring-mvc-extension:war exploded" />
+    </root>
+  </artifact>
+</component>

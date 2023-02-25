@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/pro01-spring-mvc-helloworld" />
+    <file type="web" url="file://$PROJECT_DIR$/pro02-spring-mvc-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/pro03-spring-mvc-rest" />
+    <file type="web" url="file://$PROJECT_DIR$/pro04-spring-mvc-ajax" />
+    <file type="web" url="file://$PROJECT_DIR$/pro05-spring-mvc-extension" />
+    <file type="web" url="file://$PROJECT_DIR$/pro06-spring-mvc-annotation" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pro01-spring-mvc-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/pro02-spring-mvc-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/pro03-spring-mvc-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/pro04-spring-mvc-ajax/pom.xml" />
+        <option value="$PROJECT_DIR$/pro05-spring-mvc-extension/pom.xml" />
+        <option value="$PROJECT_DIR$/pro06-spring-mvc-annotation/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

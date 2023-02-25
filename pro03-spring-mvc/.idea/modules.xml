@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pro01-spring-mvc-helloworld/pro01-spring-mvc-helloworld.iml" filepath="$PROJECT_DIR$/pro01-spring-mvc-helloworld/pro01-spring-mvc-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro02-spring-mvc-demo/pro02-spring-mvc-demo.iml" filepath="$PROJECT_DIR$/pro02-spring-mvc-demo/pro02-spring-mvc-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro03-spring-mvc.iml" filepath="$PROJECT_DIR$/pro03-spring-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro03-spring-mvc-rest/pro03-spring-mvc-rest.iml" filepath="$PROJECT_DIR$/pro03-spring-mvc-rest/pro03-spring-mvc-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro04-spring-mvc-ajax/pro04-spring-mvc-ajax.iml" filepath="$PROJECT_DIR$/pro04-spring-mvc-ajax/pro04-spring-mvc-ajax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro05-spring-mvc-extension/pro05-spring-mvc-extension.iml" filepath="$PROJECT_DIR$/pro05-spring-mvc-extension/pro05-spring-mvc-extension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro06-spring-mvc-annotation/pro06-spring-mvc-annotation.iml" filepath="$PROJECT_DIR$/pro06-spring-mvc-annotation/pro06-spring-mvc-annotation.iml" />
+    </modules>
+  </component>
+</project>
